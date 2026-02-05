@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "cn.summerrecall.replace_dig.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "mixins": [],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
